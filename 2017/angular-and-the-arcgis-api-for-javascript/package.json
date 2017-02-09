@@ -1,0 +1,31 @@
+{
+  "name": "angular-and-the-arcgis-api-for-javascript",
+  "version": "1.0.0",
+  "description": "Dev Summit 2017 Presentation \"Angular and the ArcGIS API for JavaScript\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "grunt connect"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwasilgeo/presentations.git"
+  },
+  "keywords": [
+    "esri",
+    "jsapi",
+    "angular",
+    "devsummit"
+  ],
+  "author": "Jacob Wasilkowski and Andy Gup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwasilgeo/presentations/issues"
+  },
+  "homepage": "https://github.com/jwasilgeo/presentations/tree/master/2017/angular-and-the-arcgis-api-for-javascript#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-connect": "^0.2.0"
+  },
+  "dependencies": {}
+}
