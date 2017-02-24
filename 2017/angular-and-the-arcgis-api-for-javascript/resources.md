@@ -1,4 +1,4 @@
-## Resources
+## Additional Resources
 
 <i class="fa fa-github fa-lg" title="GitHub"></i> Repos
 
