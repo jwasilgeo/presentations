@@ -7,12 +7,12 @@
 	    <p>
 	        <a href="https://github.com/andygup" target="blank">
             <i class="fa fa-github fa-lg" title="GitHub"></i>
-            @andygup
+            andygup
           </a>
 	        |
 	        <a href="https://twitter.com/agup" target="blank">
             <i class="fa fa-twitter fa-lg" title="Twitter"></i>
-            @agup
+            agup
           </a>
 	    </p>
 	</div>
@@ -23,12 +23,12 @@
 	    <p>
 	        <a href="https://github.com/jwasilgeo" target="blank">
             <i class="fa fa-github fa-lg" title="GitHub"></i>
-            @jwasilgeo
+            jwasilgeo
           </a>
 	        |
 	        <a href="https://twitter.com/jwasilgeo" target="blank">
             <i class="fa fa-twitter fa-lg" title="Twitter"></i>
-            @jwasilgeo
+            jwasilgeo
           </a>
 	    </p>
 	</div>

@@ -4,15 +4,15 @@
 <head>
   <meta charset="utf-8">
 
-  <title>ArcGIS API for JavaScript - presentation</title>
-
-  <meta name="description" content="Presentation given at the Esri Devsummit 2017, titled: Angular and the ArcGIS API for JavaScript">
+  <meta name="description" content="Presentation given at the 2017 Esri International Developer Summit, titled: Angular and the ArcGIS API for JavaScript">
   <meta name="author" content="Andy Gup, Jacob Wasilkowski, Esri">
 
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+  <title>Angular and the ArcGIS API for JavaScript</title>
 
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="./reveal.js/css/reveal.css">
@@ -54,24 +54,22 @@
     <!-- Any section element inside of this container is displayed as a slide -->
     <div class="slides">
       <!-- Use external markdown resource, separate slides by ---; separate vertical slides by ----- -->
-      <!-- <section data-markdown="index.md" data-separator="^\r?\n---\r?\n" data-separator-vertical="^\r?\n------\r?\n" data-background="./reveal.js/img/bg-1.png"></section> -->
 
       <!-- TITLE -->
-      <section data-markdown="title.md" data-background="./reveal.js/img/title.png" data-separator="^\r?\n---\r?\n" data-separator-vertical="^\r?\n------\r?\n"></section>
+      <section data-markdown="./slides/title.md" data-background="./reveal.js/img/title.png" data-separator="^\r?\n---\r?\n" data-separator-vertical="^\r?\n------\r?\n"></section>
 
       <!-- PART I:    angular-esri-map -->
+      <section data-markdown="./slides/angular-esri-map.md" data-background="./reveal.js/img/bg-1.png" data-separator="^\r?\n---\r?\n" data-separator-vertical="^\r?\n------\r?\n"></section>
 
-      <!-- PART II:   Pattern 1 Dedicated Module Loader -->
+      <!-- PART II:   Pattern 1 – Dedicated Module Loader -->
 
-      <!-- PART III:  Pattern 2 Exclude and Require -->
+      <!-- PART III:  Pattern 2 – Exclude and Require -->
 
       <!-- PART IV:   Angular and Mobile – Ionic 2 -->
 
       <!-- PART V:    Review -->
-      <section data-markdown="conclusion.md" data-background="./reveal.js/img/bg-1.png" data-separator="^\r?\n---\r?\n" data-separator-vertical="^\r?\n------\r?\n"></section>
-      <section data-markdown="resources.md" data-background="./reveal.js/img/bg-1.png" data-separator="^\r?\n---\r?\n" data-separator-vertical="^\r?\n------\r?\n"></section>
-      <!-- <section data-markdown="thank-you.md" data-background="./reveal.js/img/bg-1.png" data-separator="^\r?\n---\r?\n" data-separator-vertical="^\r?\n------\r?\n"></section> -->
-
+      <section data-markdown="./slides/conclusion.md" data-background="./reveal.js/img/bg-1.png" data-separator="^\r?\n---\r?\n" data-separator-vertical="^\r?\n------\r?\n"></section>
+      <section data-markdown="./slides/resources.md" data-background="./reveal.js/img/bg-1.png" data-separator="^\r?\n---\r?\n" data-separator-vertical="^\r?\n------\r?\n"></section>
       <!-- FIN -->
       <section class="slide">TODO: Replace the survey image in the next slide.</section>
       <section class="slide" data-background="./reveal.js/img/survey.png" data-background-size="100%"></section>
@@ -91,8 +89,8 @@
       controls: true,
       progress: true,
       history: true,
-      center: false, // don't center vertically - it makes title jump from page to page
-      slideNumber: true,
+      center: true, // center vertically? enabling it makes title jump from page to page
+      slideNumber: false,
 
       // The "normal" size of the presentation, aspect ratio will be preserved
       // when the presentation is scaled to fit different resolutions. Can be
@@ -146,7 +144,7 @@
       ]
     });
     Reveal.configure({
-      slideNumber: 'c/t'
+      // slideNumber: 'c/t'
     });
 
   </script>
