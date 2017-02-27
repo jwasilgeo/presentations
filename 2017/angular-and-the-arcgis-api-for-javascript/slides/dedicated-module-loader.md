@@ -37,5 +37,4 @@
 * Requires knowledge about ArcGIS JS API mobule loading
 * Can't use ES6 import statements
 
----
 
