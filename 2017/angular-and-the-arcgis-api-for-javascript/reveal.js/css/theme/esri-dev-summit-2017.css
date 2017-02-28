@@ -4,10 +4,10 @@
  *
  * This theme is Copyright (C) 2012 Owen Versteeg, https://github.com/StereotypicalApps. It is MIT licensed.
  * reveal.js is Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
- * 
+ *
  * 2016-03-05: Bjorn changes a few things
  * 2017-01-24: Renamed file for 2017
- * 
+ *
  */
 /*@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);*/
 /*********************************************
@@ -163,7 +163,7 @@ body {
   display: block;
   padding: 10px;
   overflow: auto;
-  /*max-height: 400px;*/
+  max-height: 400px;
   word-wrap: normal; }
 
 .reveal table {

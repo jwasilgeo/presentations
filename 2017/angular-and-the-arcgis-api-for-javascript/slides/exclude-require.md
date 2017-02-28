@@ -10,7 +10,7 @@
 
 #`Exclude and Require`
 
-![](./reveal.js/img/exclude_require.png)
+![](./reveal.js/img/exclude_require.jpg) <!-- .element: style="height: 600px;" -->
 
 ---
 

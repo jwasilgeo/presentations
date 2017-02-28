@@ -1,22 +1,26 @@
 # `angular-esri-map`
 
-- recap and sales pitch of angular-esri-map
+TODO:
 
-- production ready, supports Angular1 with JSAPI 3 or 4
+- _recap and sales pitch of angular-esri-map_
 
-- mention last year's talks
+- _production ready, supports Angular1 with JSAPI 3 or 4_
 
-- Quick Start demo
+- _mention last year's talks_
 
-- foreshadowing that `esri-loader` came from the `esriLoader` service in this repo
+- _Quick Start demo_
+
+- _foreshadowing that `esri-loader` came from the `esriLoader` service in this repo_
 
 
 ---
 
 # Who's in charge?
 
-![](./reveal.js/img/angular_and_dojo_logos.png)
-
+<p> <!-- .element: style="display: flex; align-items: center;" -->
+  ![](./reveal.js/img/angular_logo.png)
+  ![](./reveal.js/img/dojo_logo.png)
+</p>
 
 ---
 <!-- .slide: data-background="./reveal.js/img/angular_in_dojo.png" -->
@@ -38,7 +42,70 @@
 
 ---
 
-# `angular-esri-map` at Dev Summit 2016
+# Demo: Quick Start
+
+![](./reveal.js/img/angular-esri-map_quickstart_v2.png)
+
+---
+
+# Demo: Quick Start
+
+```html
+<!DOCTYPE html>
+<html ng-app="esri-map-example">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+
+  <title>AngularJS Esri Quick Start</title>
+
+  <link rel="stylesheet" href="//js.arcgis.com/4.2/esri/css/main.css">
+  <style type="text/css">
+    html, body, .esri-view {
+      padding: 0;
+      margin: 0;
+      height: 100%;
+      width: 100%;
+    }
+  </style>
+</head>
+
+<body ng-controller="MapController as vm">
+  <esri-scene-view
+    map="vm.map"
+    view-options="{
+      scale: 50000000,
+      center: [-101.17, 21.78]
+    }">
+  </esri-scene-view>
+
+  <!-- load Esri JSAPI -->
+  <script src="//js.arcgis.com/4.2/"></script>
+  <!-- load AngularJS -->
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.6.2/angular.js"></script>
+  <!-- load angular-esri-map -->
+  <script src="//unpkg.com/angular-esri-map@2"></script>
+
+  <script>
+    angular.module('esri-map-example', ['esri.map'])
+      .controller('MapController', function(esriLoader) {
+        var self = this;
+        esriLoader.require(['esri/Map'], function(Map) {
+          self.map = new Map({
+            basemap: 'streets'
+          });
+        });
+      });
+  </script>
+</body>
+</html>
+```
+
+_(directly from [README](https://github.com/Esri/angular-esri-map/blob/master/README.md#quick-start))_
+
+---
+
+# Last year at Dev Summit 2016
 
 </br>
 
@@ -46,9 +113,4 @@
 
 </br>
 
-### [ArcGIS API for JavaScript and AngularJS: </br> What's New, What's Next](https://jwasilgeo.github.io/esri-jsapi-and-angular-whats-next-dev-summit-2016)  ([_video_](http://video.esri.com/watch/5030/arcgis-api-for-javascript-and-angularjs-whats-new_comma_-whats-next_))
-
-</br>
-
-[<i class="fa fa-github fa-lg" title="GitHub"></i> tomwayson](https://github.com/tomwayson/) <!-- .element style="margin-right: 20px;" -->
-[<i class="fa fa-github fa-lg" title="GitHub"></i> jwasilgeo](https://github.com/jwasilgeo/)
+### [ArcGIS API for JavaScript and AngularJS: </br> What's New, What's Next](https://jwasilgeo.github.io/esri-jsapi-and-angular-whats-next-dev-summit-2016)  _([video](http://arcg.is/2lQn5ps))_

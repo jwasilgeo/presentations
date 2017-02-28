@@ -10,7 +10,7 @@
 
 #`Dedicated Module Loader`
 
-![](./reveal.js/img/dedicated_loader.png)
+![](./reveal.js/img/dedicated_loader.jpg) <!-- .element: style="height: 600px;" -->
 
 ---
 
@@ -36,5 +36,3 @@
 * Uses global `require()`
 * Requires knowledge about ArcGIS JS API mobule loading
 * Can't use ES6 import statements
-
-

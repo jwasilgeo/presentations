@@ -1,11 +1,18 @@
 .reveal a {
-    color: #f89823;
+  color: #f89823;
 }
 
 .reveal section img {
-    margin: 0;
-    background: none;
-    border: 0;
-    box-shadow: none;
-    height: 600px;
+  margin: 0;
+  background: none;
+  border: 0;
+  box-shadow: none;
+}
+
+.reveal pre {
+  font-size: 0.7em;
+}
+
+.reveal pre code {
+  max-height: 550px;
 }
