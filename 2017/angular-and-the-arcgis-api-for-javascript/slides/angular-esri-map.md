@@ -1,36 +1,41 @@
+# AngularJS (v1) and Esri JSAPI
+
+![](./reveal.js/img/angular1_logo.png) <!-- .element: style="width: 250px;" -->
+
+---
+
 # `angular-esri-map`
 
-TODO:
+## _TODO:_
 
-- _recap and sales pitch of angular-esri-map_
+- DONE _recap and sales pitch of angular-esri-map_
 
-- _production ready, supports Angular1 with JSAPI 3 or 4_
+- DONE _production ready, supports Angular1 with JSAPI 3 or 4_
 
-- _mention last year's talks_
+- DONE _Quick Start demo_
 
-- _Quick Start demo_
+- DONE _mention last year's talks_
 
 - _foreshadowing that `esri-loader` came from the `esriLoader` service in this repo_
-
 
 ---
 
 # Who's in charge?
 
 <p> <!-- .element: style="display: flex; align-items: center;" -->
-  ![](./reveal.js/img/angular_logo.png)
+  ![](./reveal.js/img/angular1_logo.png)
   ![](./reveal.js/img/dojo_logo.png)
 </p>
 
 ---
 <!-- .slide: data-background="./reveal.js/img/angular_in_dojo.png" -->
 
-# Don't wrap Angular in Dojo <!-- .element: style="margin-top: 42%; padding: 10px; color: white; background: rgba(128, 128, 128, 0.6)" -->
+# Don't wrap AngularJS in Dojo <!-- .element: style="margin-top: 42%; padding: 10px; color: white; background: rgba(128, 128, 128, 0.6)" -->
 
 ---
 <!-- .slide: data-background="./reveal.js/img/jsapi_in_angular.png" -->
 
-# Make JSAPI work in Angular <!-- .element: style="margin-top: 42%; padding: 10px; color: white; background: rgba(128, 128, 128, 0.6)" -->
+# Make JSAPI work in AngularJS <!-- .element: style="margin-top: 42%; padding: 10px; color: white; background: rgba(128, 128, 128, 0.6)" -->
 
 ---
 
@@ -59,7 +64,7 @@ TODO:
 
   <title>AngularJS Esri Quick Start</title>
 
-  <link rel="stylesheet" href="//js.arcgis.com/4.2/esri/css/main.css">
+  <link rel="stylesheet" href="https://js.arcgis.com/4.2/esri/css/main.css">
   <style type="text/css">
     html, body, .esri-view {
       padding: 0;
@@ -80,11 +85,11 @@ TODO:
   </esri-scene-view>
 
   <!-- load Esri JSAPI -->
-  <script src="//js.arcgis.com/4.2/"></script>
+  <script src="https://js.arcgis.com/4.2/"></script>
   <!-- load AngularJS -->
-  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.6.2/angular.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.2/angular.js"></script>
   <!-- load angular-esri-map -->
-  <script src="//unpkg.com/angular-esri-map@2"></script>
+  <script src="https://unpkg.com/angular-esri-map@2"></script>
 
   <script>
     angular.module('esri-map-example', ['esri.map'])
