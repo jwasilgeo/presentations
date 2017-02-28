@@ -1,4 +1,10 @@
+# `Going mobile!`
+
+---
+
 # `Ionic 2 and ArcGIS JS API`
+
+## Uses `esriLoader` pattern
 
 ### [https://github.com/andygup/ionic2-esri-map](https://github.com/andygup/ionic2-esri-map)
 
