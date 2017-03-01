@@ -1,9 +1,9 @@
 <h1 style="margin-top: 100px; margin-bottom: 75px;">Angular and the ArcGIS API for JavaScript</h1>
 <div style="width: 75%; margin: auto;">
 	<div style="width: 50%; float: left;">
-	    <p>
+	    <h3>
 	        Andy Gup
-	    </p>
+	    </h3>
 	    <p>
 	        <a href="https://github.com/andygup" target="blank">
             <i class="fa fa-github fa-lg" title="GitHub"></i>
@@ -17,9 +17,9 @@
 	    </p>
 	</div>
 	<div style="width: 50%; float: right;">
-	    <p>
+	    <h3>
 	        Jacob Wasilkowski
-	    </p>
+	    </h3>
 	    <p>
 	        <a href="https://github.com/jwasilgeo" target="blank">
             <i class="fa fa-github fa-lg" title="GitHub"></i>

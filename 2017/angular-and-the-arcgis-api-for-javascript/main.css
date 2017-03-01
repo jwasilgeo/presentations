@@ -16,3 +16,7 @@
 .reveal pre code {
   max-height: 550px;
 }
+
+.mini-hr {
+  width: 65%;
+}
