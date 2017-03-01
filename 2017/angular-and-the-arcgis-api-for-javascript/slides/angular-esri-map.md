@@ -1,6 +1,15 @@
 # AngularJS (v1) and Esri JSAPI
 
 ![](./reveal.js/img/angular1_logo.png) <!-- .element: style="width: 250px;" -->
+![](./reveal.js/img/angular1_logo.png) <!-- .element: style="width: 250px;" -->
+![](./reveal.js/img/angular1_logo.png) <!-- .element: style="width: 250px;" -->
+![](./reveal.js/img/angular1_logo.png) <!-- .element: style="width: 250px;" -->
+
+![](./reveal.js/img/angular1_logo.png) <!-- .element: style="width: 250px;" -->
+![](./reveal.js/img/angular1_logo.png) <!-- .element: style="width: 250px;" -->
+![](./reveal.js/img/angular1_logo.png) <!-- .element: style="width: 250px;" -->
+![](./reveal.js/img/angular1_logo.png) <!-- .element: style="width: 250px;" -->
+![](./reveal.js/img/angular1_logo.png) <!-- .element: style="width: 250px;" -->
 
 ---
 

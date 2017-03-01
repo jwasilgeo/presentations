@@ -1,3 +1,7 @@
+# Pattern 2: Exclude and Require
+
+---
+
 #`Exclude and Require`
 
 ### Example usage - Angular + webpack
