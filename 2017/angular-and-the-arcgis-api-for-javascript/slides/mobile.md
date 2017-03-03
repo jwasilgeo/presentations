@@ -14,7 +14,7 @@
 
 ### Init, Require and Load pattern
 
-* Load JS API and CSS via script tag
+* Load JS API and CSS via script tag or host locally
 * Wait for `onDeviceReady` event
 * Use global `require()` like normal
 
