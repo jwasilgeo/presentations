@@ -58,7 +58,7 @@
 
 # Demo: Quick Start
 
-![](./reveal.js/img/angular-esri-map_quickstart_v2.png)
+![](./reveal.js/img/angular-esri-map_quickstart_v2.png) <!-- .element: style="width: 75%;" -->
 
 ---
 
@@ -73,7 +73,7 @@
 
   <title>AngularJS Esri Quick Start</title>
 
-  <link rel="stylesheet" href="https://js.arcgis.com/4.2/esri/css/main.css">
+  <link rel="stylesheet" href="https://js.arcgis.com/4.3/esri/css/main.css">
   <style type="text/css">
     html, body, .esri-view {
       padding: 0;
@@ -94,7 +94,7 @@
   </esri-scene-view>
 
   <!-- load Esri JSAPI -->
-  <script src="https://js.arcgis.com/4.2/"></script>
+  <script src="https://js.arcgis.com/4.3/"></script>
   <!-- load AngularJS -->
   <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.2/angular.js"></script>
   <!-- load angular-esri-map -->

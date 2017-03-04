@@ -43,6 +43,8 @@
 
 ![](./reveal.js/img/dedicated_loader.jpg) <!-- .element: style="height: 600px;" -->
 
+[Thanks to &nbsp; ![Tom Wayson](https://avatars2.githubusercontent.com/u/662944?v=3&s=50)](http://tomwayson.com/2016/11/27/using-the-arcgis-api-for-javascript-in-applications-built-with-webpack/)  <!-- .element: style="display: inline-flex; align-items: center; font-size: 0.7em; font-style: italic;" -->
+
 ---
 
 # Dedicated Module Loader
