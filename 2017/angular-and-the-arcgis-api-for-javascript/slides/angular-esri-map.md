@@ -58,7 +58,9 @@
 
 # Demo: Quick Start
 
-![](./reveal.js/img/angular-esri-map_quickstart_v2.png) <!-- .element: style="width: 75%;" -->
+[
+![](./reveal.js/img/angular-esri-map_quickstart_v2.png)<!-- .element: style="width: 75%;" -->
+](https://github.com/Esri/angular-esri-map/blob/master/README.md#quick-start)
 
 ---
 
@@ -121,10 +123,10 @@ _(directly from [README](https://github.com/Esri/angular-esri-map/blob/master/RE
 
 # Last year at Dev Summit 2016
 
-</br>
+<br/>
 
-### [Declarative Mapping Applications with AngularJS </br> and the ArcGIS API for JavaScript](http://proceedings.esri.com/library/userconf/devsummit16/papers/dev_int_193.pdf)
+### [Declarative Mapping Applications with AngularJS <br/> and the ArcGIS API for JavaScript](http://proceedings.esri.com/library/userconf/devsummit16/papers/dev_int_193.pdf)
 
-</br>
+<br/>
 
-### [ArcGIS API for JavaScript and AngularJS: </br> What's New, What's Next](https://jwasilgeo.github.io/esri-jsapi-and-angular-whats-next-dev-summit-2016)  _([video](http://arcg.is/2lQn5ps))_
+### [ArcGIS API for JavaScript and AngularJS: <br/> What's New, What's Next](https://jwasilgeo.github.io/esri-jsapi-and-angular-whats-next-dev-summit-2016)  _([video](http://arcg.is/2lQn5ps))_

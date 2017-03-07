@@ -1,6 +1,6 @@
 # Let us take you on a journey...
 
-</br>
+<br/>
 
 Act I........................AngularJS (v1) and Esri JSAPI <!-- .element: class="fragment" style="text-align: left; margin-left: 24%;" -->
 
@@ -12,7 +12,7 @@ Act II.......................Angular (v2+) and Esri JSAPI <!-- .element: class="
 
 Act III......................Mobile Angular and Esri JSAPI <!-- .element: class="fragment" style="text-align: left; margin-left: 24%;" -->
 
-</br>
+<br/>
 
 <p class="fragment" style="display: inline-flex; align-items: center;">
   ![](./reveal.js/img/angular1_logo.png) <!-- .element: style="width: 130px; margin: 0 30px;" -->

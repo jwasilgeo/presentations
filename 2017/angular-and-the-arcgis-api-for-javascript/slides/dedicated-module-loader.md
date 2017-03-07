@@ -21,7 +21,7 @@
 
 ### Example usage - Angular + webpack
 
-* Use [esriLoader](https://github.com/tomwayson/esri-loader) or [angular2-esri-loader](https://github.com/tomwayson/angular2-esri-loader)
+* Use [esri-loader](https://github.com/tomwayson/esri-loader) or [angular2-esri-loader](https://github.com/tomwayson/angular2-esri-loader)
 
 * Injects ArcGIS API for JavaScript as a [script tag](https://github.com/tomwayson/esri-loader/blob/master/index.ts#L21-L37)
 
@@ -51,9 +51,21 @@
 
 ### Examples
 
-### [https://github.com/Esri/angular-esri-map](https://github.com/Esri/angular-esri-map)
+### [https://github.com/tomwayson/esri-loader#examples](https://github.com/tomwayson/esri-loader#examples)
 
-### [https://github.com/tomwayson/esri-loader](https://github.com/tomwayson/esri-loader)
+### [https://github.com/tomwayson/esri-angular-cli-example](https://github.com/tomwayson/esri-angular-cli-example)
+
+### [angular2-esri-loader instructions](https://gist.github.com/jwasilgeo/00855ee002aca822e33abd8a7a031f56) (GitHub Gist)
+
+### [angular-esri-map](https://github.com/Esri/angular-esri-map)*
+
+<br/>
+
+<br/>
+
+<br/>
+
+\* The original! Your friend for AngularJS (v1). <!-- .element: style="text-align: right; font-size: 0.65em;" -->
 
 ---
 
@@ -71,7 +83,7 @@
 
 ### Challenges
 
-* Uses global `require()`
+* Uses global Dojo `require()`
 
 * Requires knowledge about ArcGIS module loading
 
@@ -98,6 +110,9 @@
   <i class="fa fa-plus fa-lg"></i>
   `SystemJS` <!-- .element: style="font-size: 1.75em; margin: 0 30px;" -->
 </p>
+
+[Thanks to &nbsp; ![Rene Rubalcava](https://avatars0.githubusercontent.com/u/206462?v=3&s=50)](http://odoe.net/blog/angular-2-with-arcgis-js-api/)  <!-- .element: style="display: inline-flex; align-items: center; font-size: 0.7em; font-style: italic;" -->
+
 
 ---
 
