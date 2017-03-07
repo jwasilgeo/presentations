@@ -13,22 +13,6 @@
 
 ---
 
-# `angular-esri-map`
-
-## _TODO:_
-
-- DONE _recap and sales pitch of angular-esri-map_
-
-- DONE _production ready, supports Angular1 with JSAPI 3 or 4_
-
-- DONE _Quick Start demo_
-
-- DONE _mention last year's talks_
-
-- _foreshadowing that `esri-loader` came from the `esriLoader` service in this repo_
-
----
-
 # Who's in charge?
 
 <p> <!-- .element: style="display: flex; align-items: center;" -->

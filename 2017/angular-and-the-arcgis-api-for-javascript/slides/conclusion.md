@@ -3,9 +3,11 @@
 ```
 <!-- .element: style="font-size: 1.5em; text-align: center;" -->
 
-Impart final thoughts and wisdom here...
+Many different ways to integrate ArcGIS JS API and frameworks.
 
-Supply people with pearls of wisdom...
+These frameworks are constantly changing and being improved.
+
+Share your work with the community on github.
 
 Pictures dumping ground...
 

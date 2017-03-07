@@ -22,16 +22,23 @@
 
 #`Exclude and Require`
 
-### Examples
-* [https://github.com/tomwayson/angular2-esri-example](https://github.com/tomwayson/angular2-esri-example)
-* [https://github.com/lobsteropteryx/esri-webpack-typescript](https://github.com/lobsteropteryx/esri-webpack-typescript)
-
----
-
-#`Exclude and Require`
-
 ### Advantages:
-* Use can use ES2015 imports and commonjs
+* Use can use ES2015 imports and commonjs pattern
+
+```javascript
+
+    // commonjs - import AMD and commonjs modules
+    import Search = require('esri/dijit/Search'); 
+   
+    // ES2015 (a.k.a ES6)
+    import {LegendOptions} from "esri"; // ES2015:   
+
+```
+
+[//]: # "Reference 1: http://wiki.commonjs.org/wiki/Modules/1.1 "
+[//]: # "Reference 2: http://www.ecma-international.org/ecma-262/6.0/#sec-imports "
+
+
 * No need for async callbacks or Promises to load ArcGIS modules
 
 ---
@@ -42,3 +49,11 @@
 
 * Can introduce map loading delays
 * Also uses global `require()`
+
+---
+
+#`Exclude and Require`
+
+### Examples
+* [https://github.com/tomwayson/angular2-esri-example](https://github.com/tomwayson/angular2-esri-example)
+* [https://github.com/lobsteropteryx/esri-webpack-typescript](https://github.com/lobsteropteryx/esri-webpack-typescript)
