@@ -51,21 +51,21 @@
 
 ### Examples
 
-### [https://github.com/tomwayson/esri-loader#examples](https://github.com/tomwayson/esri-loader#examples)
+### [tomwayson/esri-loader#examples](https://github.com/tomwayson/esri-loader#examples)
 
-### [https://github.com/tomwayson/esri-angular-cli-example](https://github.com/tomwayson/esri-angular-cli-example)
+### [tomwayson/esri-angular-cli-example](https://github.com/tomwayson/esri-angular-cli-example)
 
-### [angular2-esri-loader instructions](https://gist.github.com/jwasilgeo/00855ee002aca822e33abd8a7a031f56) (GitHub Gist)
+### [kgs916/angular2-esri4-components](https://github.com/kgs916/angular2-esri4-components)
 
-### [angular-esri-map](https://github.com/Esri/angular-esri-map)*
+### [angular2-esri-loader instructions](https://gist.github.com/jwasilgeo/00855ee002aca822e33abd8a7a031f56) <span style="font-size: 0.6em; vertical-align: middle;">(GitHub Gist)</span>
 
-<br/>
-
-<br/>
+### [Esri/angular-esri-map](https://github.com/Esri/angular-esri-map)*
 
 <br/>
 
-\* The original! Your friend for AngularJS (v1). <!-- .element: style="text-align: right; font-size: 0.65em;" -->
+<br/>
+
+\* The original! And your friend for AngularJS (v1). <!-- .element: style="text-align: right; font-size: 0.65em;" -->
 
 ---
 
