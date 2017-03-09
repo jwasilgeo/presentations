@@ -8,7 +8,7 @@
 * Configure module loader to [exclude ArcGIS Dojo Modules](https://gist.github.com/gund/6b22d5ffae42849252abc9a689eb656d#file-webpack-config-js-L10-L24)
 * Configure module loader to [output AMD bundles](https://gist.github.com/gund/6b22d5ffae42849252abc9a689eb656d#file-webpack-config-js-L1-L8)
 * Load ArcGIS JS API via script tag
-* Use ArcGIS JS API Dojo loader to `require()`
+* No need to manually include `require` Example: [JS](https://github.com/Esri/jsapi-resources/blob/gh-pages/typescript/demo/MapController.js), [TS](https://github.com/Esri/jsapi-resources/blob/master/3.x/typescript/demo/MapController.ts)
 
 ---
 
