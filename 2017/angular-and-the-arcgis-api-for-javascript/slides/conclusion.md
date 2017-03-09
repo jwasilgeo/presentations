@@ -9,6 +9,3 @@ These frameworks are constantly changing and being improved.
 
 Share your work with the community on github.
 
-![](./reveal.js/img/angular_usa.png) <!-- .element: style="height: 250px;" -->
-![](./reveal.js/img/angular_map1.png) <!-- .element: style="height: 250px;" -->
-![](./reveal.js/img/angular_map2.png) <!-- .element: style="height: 250px;" -->
