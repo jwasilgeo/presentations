@@ -4,6 +4,7 @@ Angular 1 and 2 are popular application frameworks that focus on extending HTML 
 
 ## Links
 
+- [Video](https://youtu.be/-xoHdXfB8Y4)
 - Schedule: [Thursday, 09 March 2017 at 2:30pm, in Pasadena/Sierra/Ventura](https://devsummitps17.schedule.esri.com/session-catalog/1767408815)
 - Slides: <https://jwasilgeo.github.io/presentations/2017/angular-and-the-arcgis-api-for-javascript>
 
