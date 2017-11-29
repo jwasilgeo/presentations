@@ -4,7 +4,7 @@
 
 ### NACIS Annual Meeting
 
-[**Flow Mapping with JavaScript**](https://nacis2017.sched.com/event/BDl1/practical-cartography-day-late-morning-sessions-journee-cartographie-pratique-seances-de-fin-de-matinee), with [@sarahbellum ![Sarah Bell](https://avatars2.githubusercontent.com/u/10340962?v=3&s=30)](https://github.com/sarahbellum)
+[**Flow Mapping with JavaScript**](https://www.youtube.com/watch?v=cRPx-BfBtv0), with [@sarahbellum ![Sarah Bell](https://avatars2.githubusercontent.com/u/10340962?v=3&s=30)](https://github.com/sarahbellum)
 
 ### Esri International Developer Summit
 
