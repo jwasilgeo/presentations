@@ -1,5 +1,11 @@
 # Presentations
 
+## 2018
+
+### Esri International Developer Summit
+
+[**Angular and the ArcGIS API for JavaScript**](https://github.com/sean-olson-e/Angular-and-the-ArcGIS-API-for-JavaScript), with [@sean-olson-e ![Sean Olson](https://avatars0.githubusercontent.com/u/20913701?v=4&s=30)](https://github.com/sean-olson-e) and [@andygup ![Andy Gup](https://avatars3.githubusercontent.com/u/510440?v=3&s=30)](https://github.com/andygup)
+
 ## 2017
 
 ### NACIS Annual Meeting
