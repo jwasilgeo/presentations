@@ -26,7 +26,9 @@
 [**ArcGIS API for JavaScript and AngularJS: What's New, What's Next**](https://jwasilgeo.github.io/esri-jsapi-and-angular-whats-next-dev-summit-2016), with [@tomwayson ![Tom Wayson](https://avatars2.githubusercontent.com/u/662944?v=3&s=30)](https://github.com/tomwayson/)
   - [_video available here from Esri_](http://video.esri.com/watch/5030/arcgis-api-for-javascript-and-angularjs-whats-new_comma_-whats-next_)
 
-# Also appearing elsewhere at...
+# Appearing elsewhere at...
+
+https://cartonerd.blogspot.com/2018/12/favourite-maps-from-2018.html
 
 https://flowingdata.com/2018/09/10/night-lights-mapped-as-terrain/
 
