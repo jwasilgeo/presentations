@@ -16,7 +16,8 @@
 
 ### Esri International Developer Summit
 
-[**Angular and the ArcGIS API for JavaScript**](https://jwasilgeo.github.io/presentations/2017/angular-and-the-arcgis-api-for-javascript), with [@andygup ![Andy Gup](https://avatars3.githubusercontent.com/u/510440?v=3&s=30)](https://github.com/andygup)
+**Angular and the ArcGIS API for JavaScript**, with [@andygup ![Andy Gup](https://avatars3.githubusercontent.com/u/510440?v=3&s=30)](https://github.com/andygup)
+  - [slidedeck](https://jwasilgeo.github.io/presentations/2017/angular-and-the-arcgis-api-for-javascript)
 
 ## 2016
 
