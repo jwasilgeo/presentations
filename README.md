@@ -35,6 +35,8 @@
 
 https://cartonerd.blogspot.com/2018/12/favourite-maps-from-2018.html
 
+https://www.informationisbeautifulawards.com/showcase/2808-what-s-your-vote-worth
+
 https://flowingdata.com/2018/09/10/night-lights-mapped-as-terrain/
 
 https://codepen.io/spark/87
