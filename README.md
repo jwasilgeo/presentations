@@ -33,6 +33,8 @@
 
 # Appearing elsewhere at...
 
+https://www.esri.com/arcgis-blog/products/arcgis-pro/imagery/python-raster-functions-github/
+
 https://cartonerd.blogspot.com/2018/12/favourite-maps-from-2018.html
 
 https://www.informationisbeautifulawards.com/showcase/2808-what-s-your-vote-worth
