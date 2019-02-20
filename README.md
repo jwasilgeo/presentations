@@ -1,35 +1,14 @@
 # Presentations
 
-## 2018
-
-### Esri International Developer Summit
-
-**Angular and the ArcGIS API for JavaScript**, with [@sean-olson-e ![Sean Olson](https://avatars0.githubusercontent.com/u/20913701?v=4&s=30)](https://github.com/sean-olson-e) and [@andygup ![Andy Gup](https://avatars3.githubusercontent.com/u/510440?v=3&s=30)](https://github.com/andygup)
-  - [slidedeck](https://sean-olson-e.github.io/Angular-and-the-ArcGIS-API-for-JavaScript)
-  - [repo with training materials](https://github.com/sean-olson-e/Angular-and-the-ArcGIS-API-for-JavaScript)
-
-## 2017
-
-### NACIS Annual Meeting
-
-**Flow Mapping with JavaScript**, with [@sarahbellum ![Sarah Bell](https://avatars2.githubusercontent.com/u/10340962?v=3&s=30)](https://github.com/sarahbellum)
-  - [video](https://www.youtube.com/watch?v=cRPx-BfBtv0)
-
-### Esri International Developer Summit
-
-**Angular and the ArcGIS API for JavaScript**, with [@andygup ![Andy Gup](https://avatars3.githubusercontent.com/u/510440?v=3&s=30)](https://github.com/andygup)
-  - [slidedeck](https://jwasilgeo.github.io/presentations/2017/angular-and-the-arcgis-api-for-javascript)
-
-## 2016
-
-### Esri International Developer Summit
-
-**Declarative Mapping Applications with AngularJS and the ArcGIS API for JavaScript**, with [@tomwayson ![Tom Wayson](https://avatars2.githubusercontent.com/u/662944?v=3&s=30)](https://github.com/tomwayson/)
-  - pdf available [here](https://github.com/jwasilgeo/presentations/blob/master/2016/Declarative%20Mapping%20Applications%20with%20AngularJS%20and%20the%20ArcGIS%20API%20for%20JavaScript.pdf) or [here](http://proceedings.esri.com/library/userconf/devsummit16/papers/dev_int_193.pdf)
-
-**ArcGIS API for JavaScript and AngularJS: What's New, What's Next**, with [@tomwayson ![Tom Wayson](https://avatars2.githubusercontent.com/u/662944?v=3&s=30)](https://github.com/tomwayson/)
-  - [slidedeck](https://jwasilgeo.github.io/esri-jsapi-and-angular-whats-next-dev-summit-2016)
-  - [video](https://video.esri.com/watch/5030/arcgis-api-for-javascript-and-angularjs-whats-new_comma_-whats-next_)
+title | collaborators | venue | year
+--- | --- | --- | ---
+ArcGIS API for JavaScript: Creating Custom Layers and Layer Views |  | Esri International Developer Summit | 2019
+ArcGIS API for JavaScript: Creating Custom Layers and Layer Views ([pdf](http://proceedings.esri.com/library/userconf/devsummit18/papers/dev-int-018.pdf)) | [@ycabon ![Yann Cabon](https://avatars1.githubusercontent.com/u/1074239?v=4&s=30)](https://github.com/ycabon) [@thother](https://github.com/thother) | Esri International Developer Summit | 2018
+Angular and the ArcGIS API for JavaScript ([slidedeck](https://sean-olson-e.github.io/Angular-and-the-ArcGIS-API-for-JavaScript)) ([repo with training materials](https://github.com/sean-olson-e/Angular-and-the-ArcGIS-API-for-JavaScript)) | [@sean-olson-e ![Sean Olson](https://avatars0.githubusercontent.com/u/20913701?v=4&s=30)](https://github.com/sean-olson-e) [@andygup ![Andy Gup](https://avatars3.githubusercontent.com/u/510440?v=3&s=30)](https://github.com/andygup) | Esri International Developer Summit | 2018
+Flow Mapping with JavaScript ([video](https://www.youtube.com/watch?v=cRPx-BfBtv0)) | [@sarahbellum ![Sarah Bell](https://avatars2.githubusercontent.com/u/10340962?v=3&s=30)](https://github.com/sarahbellum) | NACIS Annual Meeting | 2017
+Angular and the ArcGIS API for JavaScript ([slidedeck](https://jwasilgeo.github.io/presentations/2017/angular-and-the-arcgis-api-for-javascript)) | [@andygup ![Andy Gup](https://avatars3.githubusercontent.com/u/510440?v=3&s=30)](https://github.com/andygup) | Esri International Developer Summit | 2017
+Declarative Mapping Applications with AngularJS and the ArcGIS API for JavaScript ([pdf here](https://github.com/jwasilgeo/presentations/blob/master/2016/Declarative%20Mapping%20Applications%20with%20AngularJS%20and%20the%20ArcGIS%20API%20for%20JavaScript.pdf)) ([pdf also here](http://proceedings.esri.com/library/userconf/devsummit16/papers/dev_int_193.pdf)) | [@tomwayson ![Tom Wayson](https://avatars2.githubusercontent.com/u/662944?v=3&s=30)](https://github.com/tomwayson/) | Esri International Developer Summit | 2016
+ArcGIS API for JavaScript and AngularJS: What's New, What's Next ([slidedeck](https://jwasilgeo.github.io/esri-jsapi-and-angular-whats-next-dev-summit-2016)) ([video](https://video.esri.com/watch/5030/arcgis-api-for-javascript-and-angularjs-whats-new_comma_-whats-next_)) | [@tomwayson ![Tom Wayson](https://avatars2.githubusercontent.com/u/662944?v=3&s=30)](https://github.com/tomwayson/) | Esri International Developer Summit | 2016
 
 # Appearing elsewhere at...
 
