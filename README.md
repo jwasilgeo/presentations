@@ -2,7 +2,7 @@
 
 - [Presentations](#presentations)
 
-- [Press and online appearances](press-and-online-appearances)
+- [Press and online appearances](#press-and-online-appearances)
 
 ## Presentations
 
