@@ -1,4 +1,8 @@
-# Presentations and online appearances
+# Presentations, press, and online appearances
+
+- [Presentations](#presentations)
+
+- [Press and online appearances](press-and-online-appearances)
 
 ## Presentations
 
@@ -16,32 +20,40 @@ Angular and the ArcGIS API for JavaScript ([slidedeck](https://jwasilgeo.github.
 Declarative Mapping Applications with AngularJS and the ArcGIS API for JavaScript ([pdf here](https://github.com/jwasilgeo/presentations/blob/master/2016/Declarative%20Mapping%20Applications%20with%20AngularJS%20and%20the%20ArcGIS%20API%20for%20JavaScript.pdf)) ([pdf also here](http://proceedings.esri.com/library/userconf/devsummit16/papers/dev_int_193.pdf)) | [@tomwayson ![Tom Wayson](https://avatars2.githubusercontent.com/u/662944?v=3&s=30)](https://github.com/tomwayson/) | Esri International Developer Summit | 2016
 ArcGIS API for JavaScript and AngularJS: What's New, What's Next ([slidedeck](https://jwasilgeo.github.io/esri-jsapi-and-angular-whats-next-dev-summit-2016)) ([video](https://video.esri.com/watch/5030/arcgis-api-for-javascript-and-angularjs-whats-new_comma_-whats-next_)) | [@tomwayson ![Tom Wayson](https://avatars2.githubusercontent.com/u/662944?v=3&s=30)](https://github.com/tomwayson/) | Esri International Developer Summit | 2016
 
-## Blogging and appearing elsewhere at...
+## Press and online appearances
 
 Petrichor Studio <https://petrichor.studio/>
 
-John Metcalfe, Washington Post, If night lights were mountains: Cartographer invents whole new way to look at Earth <https://www.washingtonpost.com/weather/2019/03/06/if-night-lights-were-mountains-cartographer-invents-whole-new-way-look-earth/>
+KANTAR Information is Beautiful Awards 2019, GOLD winner in "Maps, Places & Spaces" category for "Earth at Night, Mountains of Light" <https://www.informationisbeautifulawards.com/news/497-the-winners-maps-places-spaces>
 
-Julia Lenhardt, ArcGIS Blog, A Treasure Trove of Python Raster Functions <https://www.esri.com/arcgis-blog/products/arcgis-pro/imagery/python-raster-functions-github/>
+John Metcalfe, The Washington Post, "If night lights were mountains: Cartographer invents whole new way to look at Earth" <https://www.washingtonpost.com/weather/2019/03/06/if-night-lights-were-mountains-cartographer-invents-whole-new-way-look-earth/>
 
-Kenneth Field, Favourite maps from 2018 <https://cartonerd.blogspot.com/2018/12/favourite-maps-from-2018.html>
+Matt Largey, KUT 90.5 Austin's NPR Station, "Shining Cities On The Hills: Check Out This Map Of Texas Cities Showing Their Brightness In Peaks"  <https://www.kut.org/post/shining-cities-hills-check-out-map-texas-cities-showing-their-brightness-peaks>
 
-KANTAR Information is Beautiful Awards 2018 (Longlist) <https://www.informationisbeautifulawards.com/showcase/2808-what-s-your-vote-worth>
+Mark Harrower, "To 3D or not to 3D?" <https://storymaps.arcgis.com/stories/85df1e904cbb49c8ad169be4bc927016>
 
-CodePen Spark: Melody, Maps, and Mood <https://codepen.io/spark/87>
+Laurie Stevens, Esri UK & Ireland, "Eleven ways to map a General Election" <https://resource.esriuk.com/blogs/eleven-ways-to-map-a-general-election/>
 
-FlowingData: Night lights mapped as terrain <https://flowingdata.com/2018/09/10/night-lights-mapped-as-terrain/>
+Julia Lenhardt, ArcGIS Blog, "A Treasure Trove of Python Raster Functions" <https://www.esri.com/arcgis-blog/products/arcgis-pro/imagery/python-raster-functions-github/>
 
-FlowingData: Aviation tracker with depth <https://flowingdata.com/2017/09/15/aviation-tracker-with-depth/>
+Kenneth Field, "Favourite maps from 2018" <https://cartonerd.blogspot.com/2018/12/favourite-maps-from-2018.html>
 
-Jim Vallandingham, Multivariate Map Collection <https://vallandingham.me/multivariate_maps.html>
+KANTAR Information is Beautiful Awards 2018, Longlisted for "What's Your Vote Worth?" <https://www.informationisbeautifulawards.com/showcase/2808-what-s-your-vote-worth>
 
-Maps Mania, Earth's Light Mountains <http://googlemapsmania.blogspot.com/2019/02/earths-light-mountains.html>
+"The CodePen Spark: Melody, Maps, and Mood" <https://codepen.io/spark/87>
 
-Maps Mania, Animated Flow Mapping <https://googlemapsmania.blogspot.com/2017/03/animated-flow-mapping.html>
+Nathan Yau, FlowingData, "Night lights mapped as terrain" <https://flowingdata.com/2018/09/10/night-lights-mapped-as-terrain/>
 
-Maps Mania, The Leaflet Flowmap Layer <https://googlemapsmania.blogspot.com/2017/04/the-leaflet-flowmap-layer.html>
+Nathan Yau, FlowingData "Aviation tracker with depth" <https://flowingdata.com/2017/09/15/aviation-tracker-with-depth/>
 
-Wesley Jones, Esri Maps We Love: USA Population Change <https://www.esri.com/en-us/maps-we-love/gallery/usa-population-change>
+Jim Vallandingham, "Multivariate Map Collection" <https://vallandingham.me/multivariate_maps.html>
 
-The Lane Report, Louisville mapping system offers information on metro properties <https://www.lanereport.com/37491/2014/08/louisville-mapping-system-offers-information-on-metro-properties/>
+Maps Mania, "Earth's Light Mountains" <http://googlemapsmania.blogspot.com/2019/02/earths-light-mountains.html>
+
+Maps Mania, "Animated Flow Mapping" <https://googlemapsmania.blogspot.com/2017/03/animated-flow-mapping.html>
+
+Maps Mania, "The Leaflet Flowmap Layer" <https://googlemapsmania.blogspot.com/2017/04/the-leaflet-flowmap-layer.html>
+
+Wesley Jones, Esri Maps We Love, "USA Population Change" <https://www.esri.com/en-us/maps-we-love/gallery/usa-population-change>
+
+The Lane Report, "Louisville mapping system offers information on metro properties" <https://www.lanereport.com/37491/2014/08/louisville-mapping-system-offers-information-on-metro-properties/>
