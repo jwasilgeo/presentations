@@ -8,7 +8,7 @@
 
 Title | Collaborators | Venue | Year
 --- | --- | --- | ---
-ArcGIS API for JavaScript: Creating Custom Layers and Layer Views |  | Esri International Developer Summit | 2020
+ArcGIS API for JavaScript: Creating Custom Layers and Layer Views ([slidedeck](https://github.com/jwasilgeo/presentations/tree/master/2020/arcgis-api-for-javascript-creating-custom-layers-and-layer-views)) |  | (various) | 2020
 Developer Primer: Svelte | [Gavin Rehkemper (@gavinr) ![Gavin Rehkemper](https://avatars3.githubusercontent.com/u/209355?s=30&v=4)](https://github.com/gavinr)  | Esri International Developer Summit | 2020
 Guest Lecture: Web Mapping Development Intro ([lecture materials](https://github.com/gbrunner/intro-prog-for-gis-rs/tree/master/Week%2013)) |  | Programming for Remote Sensing and GIS, St. Louis University, <br> [Greg Brunner (@gbrunner) ![Gregory Brunner](https://avatars0.githubusercontent.com/u/5703643?s=30&v=4)](https://github.com/gbrunner) | 2019
 ArcGIS API for JavaScript: Creating Custom Layers and Layer Views ([slidedeck](https://github.com/jwasilgeo/presentations/blob/master/2019/arcgis-api-for-javascript-creating-custom-layers-and-layer-views/ArcGIS%20API%20for%20JavaScript%20-%20Creating%20Custom%20Layers%20and%20Layer%20Views%20-%20DevSummit2019.pdf)) ([video](https://www.youtube.com/watch?v=NgOlRLPcThQ)) |  | Esri International Developer Summit | 2019
